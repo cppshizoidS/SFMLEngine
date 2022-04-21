@@ -1,4 +1,4 @@
-# pseudo3DEngine
+# FullVersion of engine
 Simple pseudo-3d shooter implementation. 
 You can make two dimensional map, add enemy's, shoot and draw pseudo 3D image using Ray-Cast.
 
