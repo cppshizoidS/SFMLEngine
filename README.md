@@ -33,9 +33,6 @@ Demonstration of how does this engine work:
 We can smooth floor (performance-heavy):
 ![Project demonstration](img/demo_smooth.png)
 
-This engine can perfom some mirrors. As you can see, we get correct reflection image:
-![Project demonstration](img/demo_mirror.png)
-
 Reflection loop included:
 ![Project demonstration](img/demo_mirror_loop.png)
 
@@ -45,5 +42,3 @@ Online test:
 Jumps (but without camera vertical rotation):
 ![Project demonstration](img/demo_jump.png)
 
-Map editor (importing .obj files):
-![Project demonstration](img/map_editor.jpg)
