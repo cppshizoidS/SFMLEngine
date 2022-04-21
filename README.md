@@ -42,3 +42,4 @@ Online test:
 Jumps (but without camera vertical rotation):
 ![Project demonstration](img/demo_jump.png)
 
+![](https://img.shields.io/tokei/lines/github/cppshizoidS/SFMLEngine)
