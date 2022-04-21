@@ -30,12 +30,6 @@ For any issues, please, create new issue in this repository.
 Demonstration of how does this engine work:
 ![Project demonstration](img/demo_engine.jpg)
 
-Some results of texturing:
-![Project demonstration](img/demo_just_textures.png)
-
-We can switch off the textures:
-![Project demonstration](img/demo_textures_off.png)
-
 We can smooth floor (performance-heavy):
 ![Project demonstration](img/demo_smooth.png)
 
