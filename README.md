@@ -23,7 +23,6 @@ You can make two dimensional map, add enemy's, shoot and draw pseudo 3D image us
 
 4) Built project
 
-For any issues, please, create new issue in this repository.
 
 
 
